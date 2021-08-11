@@ -6,7 +6,7 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-color: #c09853;
-  border-width: 2px;
+  border-width: 1px;
   width: 100%
 }
 
@@ -17,6 +17,7 @@ h1 {
 h3 {
   color: #1e836c;
 }
+
 ul {
-line-height: 2;
+  line-height: 1.75;
 }
