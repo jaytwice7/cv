@@ -1,19 +1,22 @@
 body {
-  background-color: #dacdff;
+  background-color: #c5ded7;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 3%
+  border-color: #c09853;
+  border-width: 2px;
+  width: 100%
 }
 
 h1 {
-  color: #66BFBF;
+  color: #1e836c;
 }
 
 h3 {
-  color: #66BFBF;
+  color: #1e836c;
+}
+ul {
+line-height: 2;
 }
